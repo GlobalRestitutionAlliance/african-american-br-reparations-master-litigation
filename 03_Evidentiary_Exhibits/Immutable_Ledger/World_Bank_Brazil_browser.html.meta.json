@@ -1,0 +1,15 @@
+{
+  "url": "https://data.worldbank.org/country/brazil",
+  "final_url": "https://data.worldbank.org/country/brazil",
+  "title": "World Bank Brazil",
+  "fetched_at": "2026-11-22T21:09:02.704760Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 60014,
+  "sha256": "c81a3154b0b7281276b4f77544f21e6398ee449101b62e0989748e4d88c444f8",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML"
+}

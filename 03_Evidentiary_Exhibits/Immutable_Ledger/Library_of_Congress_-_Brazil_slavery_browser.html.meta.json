@@ -1,0 +1,15 @@
+{
+  "url": "https://www.loc.gov/item/?q=brazil+slavery",
+  "final_url": "https://www.loc.gov/item/?q=brazil+slavery",
+  "title": "Library of Congress - Brazil slavery",
+  "fetched_at": "2026-11-22T21:09:02.704760Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 60000,
+  "sha256": "cd3077e44aa5f931bf3368bef978a3abf7badce1d866ffbd207b2d236a213037",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML"
+}
