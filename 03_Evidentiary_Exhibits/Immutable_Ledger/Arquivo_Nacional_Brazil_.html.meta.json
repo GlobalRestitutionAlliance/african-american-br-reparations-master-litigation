@@ -1,0 +1,11 @@
+{
+  "url": "https://www.gov.br/arquivonacional/pt-br",
+  "final_url": "https://www.gov.br/arquivonacional/pt-br",
+  "status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes": 180542,
+  "sha256": "3de56d9e4c1a12b85607fffd5fed0424482e779a5eee6217f7cca6c26377702c",
+  "captured_at": "2026-11-22T06:47:06.842988Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture"
+}
